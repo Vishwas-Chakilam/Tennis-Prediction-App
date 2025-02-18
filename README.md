@@ -32,10 +32,13 @@ A **Machine Learning-based** web application that predicts whether you should pl
 ## 🎮 Screenshots  
 
 ### Home Page  
-![Home](https://your-image-link.com/home.png)  
+![Home](https://github.com/Vishwas-Chakilam/Tennis-Prediction-App/blob/main/Screenshot%202025-02-18%20221710.png)  
 
 ### Prediction Page  
-![Prediction](https://your-image-link.com/predict.png)  
+![Prediction](https://github.com/Vishwas-Chakilam/Tennis-Prediction-App/blob/main/Screenshot%202025-02-18%20221727.png)  
+
+### About Page  
+![About](https://github.com/Vishwas-Chakilam/Tennis-Prediction-App/blob/main/Screenshot%202025-02-18%20221743.png)  
 
 ---
 
