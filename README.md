@@ -15,7 +15,7 @@ A **Machine Learning-based** web application that predicts whether you should pl
 ---
 
 ## 🚀 Demo  
-👉 **Live App**: [Streamlit Link](#) *(If deployed, replace this with your hosted app URL)*  
+👉 **Live App**: [Coming Soon](#)
 
 ## ⚡ How It Works  
 1. Navigate to the **Predict** page.  
